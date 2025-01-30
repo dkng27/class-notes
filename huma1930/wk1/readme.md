@@ -17,14 +17,18 @@ New tech and old tech are both tech: both a well and smartphones are technologie
 
 ## The view on robots
 
-- Joanna Bryson: computer scientist and roboticist ➡ ethics professor - Book "Robots Should Be Slaves" - Robot as a tool: servants/slaves of humans, can be bought or sold - Should not create machines with humanlike qualities
+- Joanna Bryson: computer scientist and roboticist ➡ ethics professor
+- Book "_Robots Should Be Slaves_"
+- Robot as a tool: servants/slaves of humans, can be bought or sold
+- Should not create machines with humanlike qualities
   - e.g., experience suffering, sensitive in ways like a human
-  - So that we don't have moral responsibilities / duties towards then - Example: robot Sophia, _humanoid_ robot, given honorary citizenship of Saudi Arabia - Face and imitate human speech - Problematic: treated as if it were a human, but can be turned on and off (?)
+  - So that we don't have moral responsibilities / duties towards them
+    - Example: robot Sophia, _humanoid_ robot, given honorary citizenship of Saudi Arabia - Face and imitate human speech
+    - Problematic: treated as if it were a human, but can be turned on and off (?)
 
-  > Bryson has **normative version of instrumental theory of technology**
+> Bryson has **normative version of instrumental theory of technology**
 
 - _normative_: what we should and should not do;
-
 - _instrumental_: tech as tools
 
 ## "Post-Phenomenology"
