@@ -3,6 +3,7 @@
 ## General Skills
 
 [Crash Course: How to take Notes](./prep/notes/)
+[Crash Course: How to Improve Reading](./prep/reading/)
 
 ## Weekly Materials
 
