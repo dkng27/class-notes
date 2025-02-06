@@ -68,7 +68,7 @@ Post-phenomenologists argue that:
 2. Tech has (un)intended "scripts" → hints or forces people to behave in certain ways
     - paper cups, speed bumps, seatbelt alerts, etc.
 3. **The assemblage**: people + technology can do things neither alone can
-    - gunman
+    - gunman → have gun and more inclined to shoot → changes behavior
     - "you are what you eat"; "you are what tech you use" → not separate
 
 ## Persons and Things
