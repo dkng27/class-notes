@@ -12,5 +12,5 @@
 Week 2 Prep materials
 
 - [Coursera course: AI for everyone](./wk2/ai-for-everyone/)
-- [AI Crash Course Videos](./wk2/ai-crash-course/)
+- [Philosophy Crash course]
 - [*This is Technology Ethics* continued](./wk2/reading/)
