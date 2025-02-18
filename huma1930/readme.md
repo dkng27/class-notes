@@ -7,10 +7,16 @@
 
 ## Weekly Materials
 
-[Week 1 Reading](./wk1): *This is Technology Ethics - an Introduction* by Sven Nyholm
+[Week 1 Reading](./wk1): _This is Technology Ethics - an Introduction_ by Sven Nyholm
 
 Week 2 Prep materials
 
 - [Coursera course: AI for everyone](./wk2/ai-for-everyone/)
-- [Philosophy Crash course]
-- [*This is Technology Ethics* continued](./wk2/reading/)
+- [Philosophy Crash course](./wk2/philosophy-crash-course/)
+- [_This is Technology Ethics_ continued](./wk2/reading/)
+
+Week 3 Prep materials
+
+- [Coursera course: GenAI for everyone](./wk3/gen-ai-for-everyone/)
+- [Text-to-image Models](./wk3/diffusion-models/)
+- [Philosophy Crash Course Continued](./wk3/philosophy-crash-course-2/)
