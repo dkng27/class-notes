@@ -3,6 +3,7 @@
 ## General Skills
 
 [Crash Course: How to take Notes](./prep/notes/)
+
 [Crash Course: How to Improve Reading](./prep/reading/)
 
 ## Weekly Materials
@@ -13,7 +14,6 @@ Week 2 Prep materials
 
 - [Coursera course: AI for everyone](./wk2/ai-for-everyone/)
 - [Philosophy Crash course](./wk2/philosophy-crash-course/)
-- [_This is Technology Ethics_ continued](./wk2/reading/)
 
 Week 3 Prep materials
 
