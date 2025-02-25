@@ -20,3 +20,8 @@ Week 3 Prep materials
 - [Coursera course: GenAI for everyone](./wk3/gen-ai-for-everyone/)
 - [Text-to-image Models](./wk3/diffusion-models/)
 - [Philosophy Crash Course Continued](./wk3/philosophy-crash-course-2/)
+
+Week 4 Prep materials
+
+- [Philosophy Crash Course #37](./wk4/philosophy-crash-course-3/)
+- [Surveillance Capitalism](./wk4/surveillance%20capitalism/)
